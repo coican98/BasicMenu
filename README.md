@@ -2,8 +2,10 @@
 
 ---
 
-## BasicMenu
+## Basic Menu
 A basic menu created using React + TypeScript and Java + Spring, following a video tutorial made by Fernanda Kipper at YouTube.
+
+The Front End files are located at BasicMenu/website.
 
 ## Tools used
 
@@ -16,6 +18,8 @@ A basic menu created using React + TypeScript and Java + Spring, following a vid
 
 ## Menu Básico
 Um menu simples criado utilizando React + TypeScript e Java + Spring, seguindo um tutorial feito pela Fernanda Kipper no YouTube.
+
+Os arquivos de Front End estão em BasicMenu/website
 
 ## Ferramentas utilizadas
 
